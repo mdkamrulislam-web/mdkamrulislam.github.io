@@ -36,3 +36,11 @@
   text-decoration: none;
   font-weight: bold;
 }
+
+.contact-table{
+  text-align: left;
+}
+
+body{
+  background-color: #E4F9F5;
+}
