@@ -145,14 +145,8 @@ a:hover{
   margin-right: 30px;
 }
 
-.comp-img{
-  float: right;
-  width: 25%;
-  margin-left: 30px;
-}
-
 .proj-img{
-  float: left;
+  float: right;
   width: 25%;
   margin-right: 30px;
 }

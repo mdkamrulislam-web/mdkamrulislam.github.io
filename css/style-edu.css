@@ -1,0 +1,38 @@
+.edu{
+  text-align: left;
+  padding: 50px;
+}
+.edu:hover{
+  background-color: #B8DFD8;
+}
+
+.auth-anc{
+  margin: 0;
+  font-weight: normal;
+}
+
+.auth-anc:hover{
+  margin: 0;
+  color: #221DF2;
+  font-weight: normal;
+}
+
+.h2-edu{
+  font-size: 30px;
+  font-weight: bolder;
+  padding-bottom: 0;
+}
+
+.edu-body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bsc-thesis{
+  text-align: center;
+}
+
+.bsc-thesis:hover{
+  text-align: center;
+  color: #11999E;
+  padding: 0px;
+}
