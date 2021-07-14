@@ -1,5 +1,5 @@
 .res-top{
-  margin-bottom: 0;
+  margin: 20px 20px;
   padding-bottom: 0;
 }
 
@@ -7,10 +7,7 @@
   text-align: left;
 }
 
-#res-ol{
-  margin-top: 0;
-}
-
+/*
 .paper{
   padding-left: 2%;
   padding-right: 2%;
@@ -18,22 +15,29 @@
 
   text-align: justify;
   line-height: 1.5;
-}
+}*/
 
 .paper-tab{
   padding-top: 25px;
-  padding-bottom: 25   px;
+  padding-bottom: 25px;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.paper-tab:hover{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: justify;
+  line-height: 1.5;
+  background-color: #B8DFD8;
 }
 
 .abs{
   width: 75%;
-}
-
-.p-num{
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-  font-weight: bolder;
 }
 
 .paper-anchor {

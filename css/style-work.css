@@ -1,0 +1,49 @@
+.pos{
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.work{
+  text-align: left;
+}
+
+.work:hover{
+  text-align: left;
+  background-color: #B8DFD8;
+}
+
+.bull{
+  padding-left: 0;
+}
+
+.work-slot{
+  padding: 2%;
+  line-height: 2;
+  width: 70%;
+}
+
+.workplace-link{
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.workplace-link:hover{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.work-address{
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}

@@ -54,6 +54,10 @@ a:hover{
   font-weight: bold;
 }
 
+.d-logo{
+  font-size: 16px;
+}
+
 .top-container{
   background-color: #E4F9F5;
   position: relative;
