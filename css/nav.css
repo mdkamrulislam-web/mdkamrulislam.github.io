@@ -2,3 +2,30 @@
   padding-left: 0;
   padding-right: 0;
 }
+
+.navbar{
+  background-color: #66BFBF;
+  /* #3FBDE0; */
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #0B5D61;
+  /* #11999F;   */
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+  color: #FFF;
+  /* #11999F;   */
+}
+
+.navbar-light .navbar-brand{
+  color: #FFF;
+  font-size: 1.5rem;
+}
+
+.navbar-light .navbar-brand:hover{
+  color: #0B5D61;
+  font-size: 1.5rem;
+}
+
+/* / */
