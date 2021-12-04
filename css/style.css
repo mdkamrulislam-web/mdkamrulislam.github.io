@@ -84,7 +84,7 @@ nav [href]:hover{
     margin: 0 0;
     padding: 7rem 3rem;
     background-color: #E4F9F5;
-    height: 800px;
+    height: 900px;
 }
 
 .intro{
@@ -128,7 +128,7 @@ nav [href]:hover{
 
 #new-goals{
     text-align: center;
-    padding: 50px 3rem;
+    padding: 50px 50px 3rem 1rem;
     background-color: white;
 }
 
@@ -138,7 +138,7 @@ section h2{
     font-weight: 900;
     font-size: 3rem;
     color: #66BFBF;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 article img{
@@ -149,9 +149,9 @@ article img{
 
 .goal-text{
     color: #334756;
-    padding-top: 60px;
+    padding-top: 10px;
     padding-bottom: 80px;
-    padding-right: 80px;
+    /* padding-right: 80px; */
     text-align: justify;
     font-family: 'Montserrat';
     line-height: 1.5;
